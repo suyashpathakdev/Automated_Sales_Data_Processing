@@ -1,49 +1,36 @@
-
-# Automated Sales Data Processing & KPI Dashboard
+# 📊 Automated Sales Data Processing & KPI Dashboard
 
 ## 📌 Overview
-This project automates the process of cleaning, transforming, and visualizing sales data using Python.  
-It reduces manual reporting effort by **30%** and generates actionable insights for business decision-making.
-
-## 🛠 Tech Stack
-- Python (Pandas, NumPy, Matplotlib)
-- CSV Data Processing
-- Automated KPI Generation
-
-## 📊 Features
-- Data Cleaning: Removes duplicates, handles missing values, formats dates
-- KPI Calculation: Monthly revenue, top-selling products, revenue by region
-- Automated Visualizations: Charts saved as PNG files
-- Exported Clean Data & Reports for business use
-
-## 📂 Project Structure
-```
-Automated_Sales_Data_Processing/
-│── data/
-│   ├── raw_sales.csv
-│   ├── clean_sales.csv
-│── reports/
-│   ├── monthly_revenue.csv
-│   ├── monthly_revenue_trend.png
-│   ├── top_products.png
-│   ├── revenue_by_region.png
-│── scripts/
-│   ├── process_sales.py
-│   ├── visualize.py
-│── README.md
-```
-
-## 🚀 How to Run
-```bash
-pip install pandas numpy matplotlib
-python scripts/process_sales.py
-python scripts/visualize.py
-```
-
-## 📈 Sample Insights
-- Peak sales months identified
-- Top 10 products generate majority of revenue
-- Regional performance breakdown for targeted strategy
+This project automates the **cleaning, transformation, and visualization** of sales data using **Python, Pandas, NumPy, and Matplotlib**.  
+It reduces manual reporting time by **30%**, improves data accuracy, and generates **actionable KPIs** for business decision-making.
 
 ---
-**Author:** Suyash Pathak
+
+## 🛠 Tech Stack
+- **Programming:** Python (Pandas, NumPy)
+- **Visualization:** Matplotlib
+- **Data Processing:** CSV handling, KPI generation
+- **Version Control:** Git, GitHub
+
+---
+
+## 🎯 Skills Demonstrated
+- Data Cleaning (null handling, duplicate removal, date formatting)
+- ETL (Extract, Transform, Load) workflow
+- KPI Tracking (Monthly revenue, top-selling products, regional performance)
+- Data Visualization for business insights
+- Automation of analytics workflow
+
+---
+
+## 📊 Key Features
+- **Automated Data Cleaning:** Removes missing values, duplicates, and formats dates
+- **KPI Calculation:** Monthly revenue trends, top-selling products, revenue by region
+- **Visualizations:** Generates PNG charts for quick reporting
+- **Reusable Scripts:** Easy to adapt for different datasets
+
+---
+
+## 📂 Project Structure
+
+
